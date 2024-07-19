@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Another page
-description: This is just another page
+title: Publications
+description: Here is where we share our works
 ---
 
-## Welcome to another page
+## Welcome to the Publication page
 
-_yay_
+In construction
 
 [back](./)
